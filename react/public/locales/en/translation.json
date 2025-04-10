@@ -2586,7 +2586,7 @@
         "manage_update_latest": "All changes have been reflected.",
         "manage_update_reupload": "Please click [Update] to share the changes.",
         "manage_update_title": "Update Preview",
-        "not_available_demo": "Preview sharing is not available with a demo video. Please load a video or a project file and try again.",
+        "not_available_demo": "Preview sharing is not available with a demo video. Please load a video or a project file and try again .",
         "not_available_web": "Preview sharing is not available in the web version. Please install Vrew and try again.",
         "password_confirm": "Confirm",
         "password_desc": "You can set the password required to access the preview link.",

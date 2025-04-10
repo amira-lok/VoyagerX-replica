@@ -2586,7 +2586,7 @@
         "manage_update_latest": "모든 변경 사항을 반영했습니다.",
         "manage_update_reupload": "[업데이트]를 눌러서 변경 사항을 공유해주세요.",
         "manage_update_title": "프리뷰 업데이트",
-        "not_available_demo": "데모 영상에서는 사용할 수 없는 기능입니다. 영상 및 프로젝트를 불러오신 후 다시 이용해주세요.",
+        "not_available_demo": "데모 영상에서는 사용할 수 없는 기능입니다. 영상 및 프로젝트를 불러오신 후 다시 이용해주세요 .",
         "not_available_web": "웹 버전에서는 사용할 수 없는 기능입니다. Vrew를 설치하신 후 다시 이용해주세요. ",
         "password_confirm": "확인",
         "password_desc": "프리뷰 링크 접속에 필요한 비밀번호를 설정할 수 있습니다.",
